@@ -1,0 +1,3 @@
+[submodule "reference/git-sub-test"]
+	path = reference/git-sub-test
+	url = https://github.com/tomhsu2000/git-sub-test
